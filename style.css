@@ -1,0 +1,50 @@
+/* Author :- Rajpal Nishad  */
+
+#clockContainer {
+    position: relative;
+    /* border: 2px solid red; */
+    margin: auto;
+    background-color: red;
+    height: 45vw;
+    width: 45vw;
+    background: url(Clock.png) no-repeat;
+    background-size: 100%;
+}
+
+#hour,
+#minute,
+#second {
+    position: absolute;
+    background: black;
+    border-radius: 10px;
+    transform-origin: bottom;
+}
+
+#hour {
+    width: 1%;
+    height: 30%;
+    top: 19.6%;
+    left: 49.877%;
+    opacity: 0.8;
+    transform-origin: bottom;
+}
+
+#minute {
+    width: 0.6%;
+    height: 37%;
+    top: 12.59%;
+    left: 49.877%;
+    opacity: 0.8;
+    transform-origin: bottom;
+}
+
+
+#second {
+    width: 0.3%;
+    height: 45%;
+    top: 4.59%;
+    left: 49.877%;
+    opacity: 0.8;
+}
+
+/* Thank You!! */
