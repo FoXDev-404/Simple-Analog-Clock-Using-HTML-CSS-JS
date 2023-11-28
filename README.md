@@ -1,5 +1,4 @@
 # Simple-Analog-Clock-Using-HTML-CSS-JS
-A simple code. :)
 
 ## Usage
 ```sh
